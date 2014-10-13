@@ -14,14 +14,14 @@ document.write('<meta name="keywords" content="story, cat">');
 document.write('<title data-ng-bind="title">The story of the cat</title>');
 
 //set css, scripts
-document.write('<link href="https://s3.amazonaws.com/main-themes/css/bootstrap.min.css" rel="stylesheet" />');
-document.write('<link href="https://s3.amazonaws.com/main-themes/ico/favicon.ico" rel="shortcut icon" />');
+document.write('<link href="http://wall2003.github.io/Themes/Default/css/bootstrap.min.css" rel="stylesheet" />');
+document.write('<link href="http://wall2003.github.io/Themes/Default/ico/favicon.ico" rel="shortcut icon" />');
 
 //jQuery
 //document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
-document.write('<script src="https://s3.amazonaws.com/main-themes/js/jquery-1.10.2.min.js"></script>');
+document.write('<script src="http://wall2003.github.io/js/jquery-1.10.2.min.js"></script>');
 
 //Angular
 //document.write("<script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.20/angular-route.min.js'></script>");
 //document.write("<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js'></script>");
-document.write('<script src="https://s3.amazonaws.com/main-themes/js/angular.js"></script>');
+document.write('<script src="http://wall2003.github.io/js/angular.js"></script>');
