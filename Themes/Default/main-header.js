@@ -15,6 +15,7 @@ document.write('<title data-ng-bind="title">The story of the cat</title>');
 
 //set css, scripts
 document.write('<link href="http://wall2003.github.io/Themes/Default/css/bootstrap.min.css" rel="stylesheet" />');
+document.write('<link href="http://wall2003.github.io/Themes/Default/css/webrunes.css" rel="stylesheet" />');
 document.write('<link href="http://wall2003.github.io/Themes/Default/ico/favicon.ico" rel="shortcut icon" />');
 
 //jQuery
