@@ -11,14 +11,14 @@ app.directive('container', function(){
 
 app.directive('navbarHeader', function(){
     return {
-        restrict: 'A',
+        restrict: 'E',
         templateUrl: 'http://wall2003.github.io/Themes/Default/views/navbar-header.html'
     };
 });
 
 app.directive('navbarCollapse', function(){
     return {
-        restrict: 'A',
+        restrict: 'E',
         templateUrl: 'http://wall2003.github.io/Themes/Default/views/navbar-collapse.html'
     };
 });
