@@ -5,6 +5,6 @@ var app = app || {};
 app.directive('container', function(){
     return {
         restrict: 'A',
-        templateUrl: 'https://s3.amazonaws.com/main-themes/container.html'
+        templateUrl: 'http://wall2003.github.io/Themes/Default/views/container.html'
     };
 });
