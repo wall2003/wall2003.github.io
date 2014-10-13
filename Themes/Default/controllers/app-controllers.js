@@ -7,9 +7,9 @@ app.controller('leftCtrl',['$scope', function($scope){
 }]);
 
 app.controller('centerCtrl',['$scope', function($scope){
-    $scope.center = 'Menu CENTER';
+    $scope.menu = 'Menu CENTER';
 }]);
 
 app.controller('rightCtrl',['$scope', function($scope){
-    $scope.right = 'Menu RIGHT';
+    $scope.menu = 'Menu RIGHT';
 }]);
