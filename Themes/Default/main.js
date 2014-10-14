@@ -82,7 +82,13 @@ meta.setAttribute('href', 'http://wall2003.github.io/Themes/Default/ico/apple-to
 head.appendChild(meta);
 
 //prepare root container
-document.write('<div class="container-liquid tooltip-demo" data-container></div>');
+var body = document.getElementsByTagName('body')[0];
+var cont = document.createElement('div');
+cont.AddClass('container-liquid tooltip-demo');
+cont.setAttribute('data-container', '');
+//body.appendChild(cont);
+var scripts = document.getElementsByTagName('script');
+cont.insertBefore(scripts[0]);
 
 //load scripts
 document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
