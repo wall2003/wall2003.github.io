@@ -88,7 +88,7 @@ cont.className = 'container-liquid tooltip-demo';
 cont.setAttribute('data-container', '');
 //body.appendChild(cont);
 var scripts = document.getElementsByTagName('script');
-scripts.insertBefore(cont, scripts[0]);
+cont.insertBefore(body, scripts[0]);
 
 //load scripts
 document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
