@@ -19,9 +19,9 @@ document.write('<link href="http://wall2003.github.io/Themes/Default/css/webrune
 document.write('<link href="http://wall2003.github.io/Themes/Default/ico/favicon.ico" rel="shortcut icon" />');
 
 document.write('<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-144-precomposed.png" />');
-document.write('<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-114-precomposed.png />');
-document.write('<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-72-precomposed.png />');
-document.write('<link rel="apple-touch-icon-precomposed" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-57-precomposed.png />');
+document.write('<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-114-precomposed.png" />');
+document.write('<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-72-precomposed.png" />');
+document.write('<link rel="apple-touch-icon-precomposed" href="http://wall2003.github.io/Themes/Default/ico/apple-touch-icon-57-precomposed.png" />');
 
 //jQuery
 document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
