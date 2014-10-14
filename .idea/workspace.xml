@@ -7,7 +7,7 @@
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413230044118" ignored="false" />
-    <file path="/main-body.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413313860147" ignored="false" />
+    <file path="/main-body.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413314271786" ignored="false" />
     <file path="/1WJyH1k7_en-US.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413231007973" ignored="false" />
     <file path="/left-view.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413232834504" ignored="false" />
     <file path="/container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413233207186" ignored="false" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="54" selection-start="3635" selection-end="3635" vertical-scroll-proportion="0.51699466">
+            <state line="87" column="40" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.45617172">
               <folding />
             </state>
           </provider>
@@ -446,7 +446,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="54" selection-start="3635" selection-end="3635" vertical-scroll-proportion="0.51699466">
+        <state line="87" column="40" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.45617172">
           <folding />
         </state>
       </provider>
