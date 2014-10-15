@@ -84,7 +84,7 @@ head.appendChild(meta);
 //prepare root container
 var body = document.getElementsByTagName('body')[0];
 var cont = document.createElement('div');
-cont.className = 'container-liquid tooltip-demo';
+cont.className = 'container-liquid';
 cont.setAttribute('data-container', '');
 //body.appendChild(cont);
 var scripts = document.getElementsByTagName('script');

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/views/container.html" afterPath="$PROJECT_DIR$/Themes/Default/views/container.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/main.js" afterPath="$PROJECT_DIR$/Themes/Default/main.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="40" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.0">
+            <state line="86" column="34" selection-start="3498" selection-end="3498" vertical-scroll-proportion="0.39177102">
               <folding />
             </state>
           </provider>
@@ -68,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="container.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="container.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/views/container.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="555" selection-end="555" vertical-scroll-proportion="0.34249085">
+            <state line="11" column="6" selection-start="555" selection-end="555" vertical-scroll-proportion="-7.1923075">
               <folding />
             </state>
           </provider>
@@ -143,12 +143,12 @@
         <option value="$PROJECT_DIR$/Themes/Default/views/left-view.html" />
         <option value="$PROJECT_DIR$/Themes/Default/main-header.js" />
         <option value="$PROJECT_DIR$/Themes/Default/main-body.js" />
-        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
         <option value="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" />
         <option value="$PROJECT_DIR$/Themes/Default/views/navbar-header.html" />
         <option value="$PROJECT_DIR$/Themes/Default/views/navbar-collapse.html" />
         <option value="$PROJECT_DIR$/Themes/Default/views/container.html" />
+        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
       </list>
     </option>
   </component>
@@ -441,41 +441,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="7" selection-start="727" selection-end="727" vertical-scroll-proportion="-5.230769">
-          <folding>
-            <element signature="tag#script#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="4.5">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/controllers/app-controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="4" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="40" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -503,7 +471,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/views/container.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="555" selection-end="555" vertical-scroll-proportion="0.34249085">
+        <state line="11" column="6" selection-start="555" selection-end="555" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="4.5">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="7" selection-start="727" selection-end="727" vertical-scroll-proportion="-5.230769">
+          <folding>
+            <element signature="tag#script#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="34" selection-start="3498" selection-end="3498" vertical-scroll-proportion="0.39177102">
           <folding />
         </state>
       </provider>
