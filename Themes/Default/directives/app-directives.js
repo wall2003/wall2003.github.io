@@ -5,7 +5,7 @@ var app = app || {};
 app.directive('container', function(){
     return {
         restrict: 'A',
-        template: '/root-container.html'
+        templateUrl: '/root-container.html'
     };
 });
 
