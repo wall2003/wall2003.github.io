@@ -108,7 +108,7 @@
         '<h4 data-ng-bind="menu"></h4></div></div>' +
         '</script>');
     //menu-widget
-    document.write('<script src="http://wall2003.github.io/Themes/Default/templates/menu-widget.js"></script>');
+    //document.write('<script src="http://wall2003.github.io/Themes/Default/templates/menu-widget.js"></script>');
 
     //application
     document.write('<script src="http://wall2003.github.io/Themes/Default/app-app.js"></script>');
