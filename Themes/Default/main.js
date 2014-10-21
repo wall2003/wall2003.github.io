@@ -86,7 +86,7 @@
     var body = document.getElementsByTagName('body')[0];
     var cont = document.createElement('div');
     cont.className = 'container-liquid';
-    cont.setAttribute('ng-include', 'root-container.html');
+    cont.setAttribute('ng-include', '/root-container.html');
     //body.appendChild(cont);
     var scripts = document.getElementById('root_script');
     body.insertBefore(cont, scripts[0]);
