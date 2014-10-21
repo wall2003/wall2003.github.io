@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="" />
+    <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/main.js" afterPath="$PROJECT_DIR$/Themes/Default/main.js" />
+    </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413918305724" ignored="false" />
@@ -32,23 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1WJyH1k7_en-US.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="-17.076923">
-              <folding>
-                <marker date="1413919424595" expanded="true" signature="21:743" placeholder="..." />
-                <marker date="1413919424595" expanded="true" signature="28:626" placeholder="..." />
-                <marker date="1413919424595" expanded="true" signature="633:735" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="0" selection-start="5122" selection-end="5122" vertical-scroll-proportion="0.0">
+            <state line="118" column="0" selection-start="5662" selection-end="5662" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -66,7 +55,7 @@
       <file leaf-file-name="app-directives.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+            <state line="8" column="6" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,10 +100,10 @@
         <option value="$PROJECT_DIR$/Themes/Default/views/container.html" />
         <option value="$PROJECT_DIR$/Themes/Default/views/navbar-header.html" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
         <option value="$PROJECT_DIR$/Themes/Default/templates/menu-widget.js" />
-        <option value="$PROJECT_DIR$/Themes/Default/templates/root-container.js" />
         <option value="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" />
+        <option value="$PROJECT_DIR$/Themes/Default/templates/root-container.js" />
+        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
       </list>
     </option>
   </component>
@@ -438,20 +427,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="-17.076923">
-          <folding>
-            <marker date="1413919424595" expanded="true" signature="21:743" placeholder="..." />
-            <marker date="1413919424595" expanded="true" signature="28:626" placeholder="..." />
-            <marker date="1413919424595" expanded="true" signature="633:735" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/views/container.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="6" selection-start="555" selection-end="555" vertical-scroll-proportion="0.34249085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="0.8131868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="6" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -463,16 +455,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="0" selection-start="5122" selection-end="5122" vertical-scroll-proportion="0.0">
+        <state line="118" column="0" selection-start="5662" selection-end="5662" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
