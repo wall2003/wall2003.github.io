@@ -1,4 +1,4 @@
-<script id='root-container' type='text/template'>
+<script id='root-container.html' type='text/ng-template'>
     <div class="row row-offcanvas row-offcanvas-right">
         <div class="col-xs-12 col-sm-3 col-md-2" data-ng-controller="leftCtrl">
             <div class="navbar-header" navbar-header></div>

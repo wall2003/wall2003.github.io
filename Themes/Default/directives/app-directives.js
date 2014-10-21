@@ -5,20 +5,20 @@ var app = app || {};
 app.directive('container', function(){
     return {
         restrict: 'A',
-        templateUrl: 'http://wall2003.github.io/Themes/Default/views/container.html'
+        template: 'root-container.html'
     };
 });
 
 app.directive('navbarHeader', function(){
     return {
         restrict: 'A',
-        templateUrl: 'http://wall2003.github.io/Themes/Default/views/navbar-header.html'
+        template: '<div>Header</div>'
     };
 });
 
 app.directive('navbarCollapse', function(){
     return {
         restrict: 'A',
-        templateUrl: 'http://wall2003.github.io/Themes/Default/views/navbar-collapse.html'
+        template: '<div>Collapse</div>'
     };
 });
