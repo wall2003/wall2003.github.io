@@ -87,7 +87,7 @@ var cont = document.createElement('div');
 cont.className = 'container-liquid';
 cont.setAttribute('data-container', '');
 //body.appendChild(cont);
-var scripts = document.getElementsByTagName('script');
+var scripts = document.getElementById('root_script');
 body.insertBefore(cont, scripts[0]);
 
 //load scripts
@@ -100,6 +100,9 @@ document.write('<script src="http://wall2003.github.io/js/application.js"></scri
 document.write('<script src="http://wall2003.github.io/Themes/Default/app-app.js"></script>');
 document.write('<script src="http://wall2003.github.io/Themes/Default/directives/app-directives.js"></script>');
 document.write('<script src="http://wall2003.github.io/Themes/Default/controllers/app-controllers.js"></script>');
+
+//load templane
+
 
 
 
