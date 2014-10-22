@@ -92,19 +92,6 @@
     body.insertBefore(cont, scripts[0]);
 
 
-
-    //template
-    //root-container
-//    document.write('<script id="root-container.html" type="text/ng-template">' +
-//        '<div class="row row-offcanvas row-offcanvas-right"><div class="col-xs-12 col-sm-3 col-md-2" data-ng-controller="leftCtrl">' +
-//        '<div class="navbar-header" navbar-header></div><div class="navbar-collapse in" navbar-collapse></div></div>' +
-//        '<div class="content col-xs-12 col-sm-5 col-md-7" data-ng-controller="centerCtrl"><h4 data-ng-bind="menu"></h4></div>' +
-//        '<div class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas" id="sidebar" data-ng-controller="rightCtrl">' +
-//        '<h4 data-ng-bind="menu"></h4></div>' +
-//        '</script>');
-    //menu-widget
-    //document.write('<script src="http://wall2003.github.io/Themes/Default/templates/menu-widget.js"></script>');
-
     //load scripts
     document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
     document.write("<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js'></script>");
@@ -113,10 +100,11 @@
     document.write('<script src="http://wall2003.github.io/js/application.js"></script>');
 
     //application
-    document.write('<script src="http://wall2003.github.io/Themes/Default/app-app.js"></script>');
-    document.write('<script src="http://wall2003.github.io/Themes/Default/templates.js"></script>');
-    document.write('<script src="http://wall2003.github.io/Themes/Default/directives/app-directives.js"></script>');
-    document.write('<script src="http://wall2003.github.io/Themes/Default/controllers/app-controllers.js"></script>');
+    var skin = 'Default';
+    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/app-app.js"></script>');
+    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/templates.js"></script>');
+    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/directives/app-directives.js"></script>');
+    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/controllers/app-controllers.js"></script>');
 
 
 
