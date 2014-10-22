@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Themes/Default/templates/center-box.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Themes/Default/templates/right-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" afterPath="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/templates/root-container.html" afterPath="$PROJECT_DIR$/Themes/Default/templates/root-container.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/templates.js" afterPath="$PROJECT_DIR$/Themes/Default/templates.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,7 +20,7 @@
     <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008433112" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414001055309" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
-    <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009536838" ignored="false" />
+    <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
     <file path="/navbar-menu.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007468337" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app-app.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app-app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Themes/Default/app-app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar-menu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Themes/Default/templates/navbar-menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="5" selection-start="2218" selection-end="2218" vertical-scroll-proportion="-21.576923">
+            <state line="12" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.34285715">
               <folding />
             </state>
           </provider>
@@ -60,20 +53,20 @@
       <file leaf-file-name="1WJyH1k7-list.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="18" selection-start="1506" selection-end="1506" vertical-scroll-proportion="-8.153846">
+            <state line="28" column="6" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-2.2307692">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="root-container.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="root-container.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.41827768">
+            <state line="14" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
@@ -97,8 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Themes/Default/main-body.js" />
-        <option value="$PROJECT_DIR$/Themes/Default/views/navbar-collapse.html" />
         <option value="$PROJECT_DIR$/Themes/Default/views/container.html" />
         <option value="$PROJECT_DIR$/Themes/Default/views/navbar-header.html" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
@@ -107,12 +98,14 @@
         <option value="$PROJECT_DIR$/Themes/Default/templates/menu-widget.html" />
         <option value="$PROJECT_DIR$/Themes/Default/gulpfile.js" />
         <option value="$PROJECT_DIR$/Themes/Default/app-app.js" />
-        <option value="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" />
         <option value="$PROJECT_DIR$/Themes/Default/main.js" />
         <option value="$PROJECT_DIR$/Themes/Default/templates/navbar-header.html" />
         <option value="$PROJECT_DIR$/Themes/Default/templates/navbar-menu.html" />
-        <option value="$PROJECT_DIR$/Themes/Default/templates/root-container.html" />
         <option value="$PROJECT_DIR$/Themes/Default/templates.js" />
+        <option value="$PROJECT_DIR$/Themes/Default/templates/center-box.html" />
+        <option value="$PROJECT_DIR$/Themes/Default/templates/root-container.html" />
+        <option value="$PROJECT_DIR$/Themes/Default/templates/right-box.html" />
+        <option value="$PROJECT_DIR$/Themes/Default/directives/app-directives.js" />
       </list>
     </option>
   </component>
@@ -203,6 +196,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wall2003.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wall2003.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,20 +362,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Themes/Default/views/left-view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="6" selection-start="3475" selection-end="3475" vertical-scroll-proportion="0.4047619" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/views/navbar-collapse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="39" selection-start="594" selection-end="594" vertical-scroll-proportion="0.31894934" />
@@ -385,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.4857143">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="40" selection-start="4020" selection-end="4020" vertical-scroll-proportion="0.4857143">
@@ -401,42 +395,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/navbar-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="722" selection-end="722" vertical-scroll-proportion="0.21402878">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/navbar-menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="5" selection-start="2218" selection-end="2218" vertical-scroll-proportion="-21.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="7" selection-start="744" selection-end="744" vertical-scroll-proportion="0.80667835">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/app-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="18" selection-start="1506" selection-end="1506" vertical-scroll-proportion="-8.153846">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,9 +416,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/navbar-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="733" selection-end="733" vertical-scroll-proportion="0.21402878">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/center-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/right-box.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/templates/navbar-menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="2218" selection-end="2218" vertical-scroll-proportion="1.0089928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="38" selection-start="465" selection-end="465" vertical-scroll-proportion="0.4857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="6" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-2.2307692">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="660" selection-end="660" vertical-scroll-proportion="0.41827768">
+        <state line="14" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/app-app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="436" selection-end="436" vertical-scroll-proportion="0.34285715">
           <folding />
         </state>
       </provider>

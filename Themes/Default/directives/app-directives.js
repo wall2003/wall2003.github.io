@@ -22,3 +22,17 @@ app.directive('navbarMenu', function(){
         templateUrl: 'navbar-menu.html'
     };
 });
+
+app.directive('centerBox', function(){
+    return {
+        restrict: 'A',
+        templateUrl: 'center-box.html'
+    };
+});
+
+app.directive('rightBox', function(){
+    return {
+        restrict: 'A',
+        templateUrl: 'right-box.html'
+    };
+});
