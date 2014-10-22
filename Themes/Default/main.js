@@ -114,7 +114,7 @@
 
     //application
     document.write('<script src="http://wall2003.github.io/Themes/Default/app-app.js"></script>');
-    document.write('<script src="http://wall2003.github.io/Themes/Default/gulpfile.js"></script>');
+    document.write('<script src="http://wall2003.github.io/Themes/Default/templates.js"></script>');
     document.write('<script src="http://wall2003.github.io/Themes/Default/directives/app-directives.js"></script>');
     document.write('<script src="http://wall2003.github.io/Themes/Default/controllers/app-controllers.js"></script>');
 
