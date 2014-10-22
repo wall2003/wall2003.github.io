@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/templates.js" afterPath="$PROJECT_DIR$/Themes/Default/templates.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Themes/Default/main.js" afterPath="$PROJECT_DIR$/Themes/Default/main.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,19 +36,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="0" selection-start="5844" selection-end="5844" vertical-scroll-proportion="0.0">
+            <state line="88" column="39" selection-start="3891" selection-end="3891" vertical-scroll-proportion="0.22689076">
               <folding>
                 <element signature="e#339#383#0" expanded="false" />
-                <element signature="e#4048#4058#0" expanded="false" />
+                <element signature="e#4028#4038#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="templates.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/templates.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
@@ -69,7 +69,7 @@
       <file leaf-file-name="app-directives.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="6" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+            <state line="4" column="18" selection-start="52" selection-end="61" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -134,8 +134,8 @@
         <option value="$PROJECT_DIR$/Themes/Default/templates/menu-widget.html" />
         <option value="$PROJECT_DIR$/Themes/Default/gulpfile.js" />
         <option value="$PROJECT_DIR$/Themes/Default/app-app.js" />
-        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
         <option value="$PROJECT_DIR$/Themes/Default/templates.js" />
+        <option value="$PROJECT_DIR$/Themes/Default/main.js" />
       </list>
     </option>
   </component>
@@ -427,23 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="0" selection-start="5844" selection-end="5844" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#339#383#0" expanded="false" />
-            <element signature="e#4048#4058#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="6" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="-7.8461537">
@@ -476,6 +459,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="52" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="39" selection-start="3891" selection-end="3891" vertical-scroll-proportion="0.22689076">
+          <folding>
+            <element signature="e#339#383#0" expanded="false" />
+            <element signature="e#4028#4038#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
