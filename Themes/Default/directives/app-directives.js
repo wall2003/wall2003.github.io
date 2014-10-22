@@ -12,13 +12,13 @@ app.directive('container', function(){
 app.directive('navbarHeader', function(){
     return {
         restrict: 'A',
-        template: '<div>Header</div>'
+        templateUrl: 'navbar-header.html'
     };
 });
 
-app.directive('navbarCollapse', function(){
+app.directive('navbarMenu', function(){
     return {
         restrict: 'A',
-        template: '<div>Collapse</div>'
+        template: 'navbar-menu.html'
     };
 });
