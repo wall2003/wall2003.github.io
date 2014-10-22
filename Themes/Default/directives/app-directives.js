@@ -19,6 +19,6 @@ app.directive('navbarHeader', function(){
 app.directive('navbarMenu', function(){
     return {
         restrict: 'A',
-        template: 'navbar-menu.html'
+        templateUrl: 'navbar-menu.html'
     };
 });
