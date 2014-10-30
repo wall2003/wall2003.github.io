@@ -136,7 +136,7 @@
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/directives/app-directives.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/controllers/app-controllers.js"></script>');
 
-    document.load(function(){
+    window.onload (function(){
         window.Webrunes = window.Webrunes || {};
         window.Webrunes.Menu = $('#content-linked-data').html();
     });
