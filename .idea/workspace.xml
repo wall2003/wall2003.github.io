@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-widget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\main.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1WJyH1k7_en-US.html" afterPath="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-      <change type="MOVED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +14,7 @@
     <file path="/app-directives.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007818395" ignored="false" />
     <file path="/main-header.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413308390383" ignored="false" />
     <file path="/navbar-header.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008617620" ignored="false" />
-    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414695319768" ignored="false" />
+    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414695922870" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414693980532" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
@@ -75,7 +70,7 @@
       <file leaf-file-name="1WJyH1k7_en-US.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="721" selection-end="721" vertical-scroll-proportion="-17.0">
+            <state line="25" column="19" selection-start="652" selection-end="685" vertical-scroll-proportion="-16.346153">
               <folding />
             </state>
           </provider>
@@ -84,7 +79,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="60" selection-start="4111" selection-end="4111" vertical-scroll-proportion="0.3092437">
+            <state line="97" column="35" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.22352941">
               <folding>
                 <element signature="e#343#387#0" expanded="false" />
               </folding>
@@ -221,46 +216,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wall2003.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wall2003.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wall2003.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wall2003.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -477,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Themes/Default/app-app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="7" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
@@ -505,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="721" selection-end="721" vertical-scroll-proportion="-17.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="-9.153846">
@@ -519,9 +460,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Themes/Default/app-app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="19" selection-start="652" selection-end="685" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="60" selection-start="4111" selection-end="4111" vertical-scroll-proportion="0.3092437">
+        <state line="97" column="35" selection-start="4175" selection-end="4175" vertical-scroll-proportion="0.22352941">
           <folding>
             <element signature="e#343#387#0" expanded="false" />
           </folding>

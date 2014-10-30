@@ -102,6 +102,9 @@
     cont = document.createElement('div');
     cont.className = 'navbar navbar-inverse main navbar-fixed-top row-offcanvas-menu';
     div1.appendChild(cont);
+    var frame = document.createElement('frame');
+    frame.setAttribute('src', 'http://wall2003.github.io/Widgets/Menu/menu-frame.html');
+    cont.appendChild(frame);
 
     //container - div - div1
     div1 = document.createElement('div');
