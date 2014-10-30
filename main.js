@@ -108,6 +108,7 @@
     frame.setAttribute('height', '100%');
     frame.setAttribute('allowTransparency', '');
     frame.setAttribute('scrolling', 'no');
+    frame.setAttribute('frameborder', '0');
     cont.appendChild(frame);
 
     //container - div - div1
