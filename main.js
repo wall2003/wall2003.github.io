@@ -130,12 +130,16 @@
 //    document.write('<script src="http://wall2003.github.io/js/application.js"></script>');
 
     //application
-    var skin = 'Default';
+//    var skin = 'Default';
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/app-app.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/templates.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/directives/app-directives.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/controllers/app-controllers.js"></script>');
 
+    document.load(function(){
+        window.Webrunes = window.Webrunes || {};
+        window.Webrunes.Menu = $('#content-linked-data').html();
+    });
 
 
 })();
