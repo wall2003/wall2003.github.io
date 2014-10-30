@@ -136,12 +136,12 @@
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/directives/app-directives.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/controllers/app-controllers.js"></script>');
 
-    window.onload (function(){
-        window.Webrunes = window.Webrunes || {};
-        window.Webrunes.Menu = $('#content-linked-data').html();
-    });
 
-    
+
+    $(document).ready(function() {
+        var Webrunes = Webrunes || {};
+        Webrunes.Menu = $('#content-linked-data').html();
+    });
 
 
 })();
