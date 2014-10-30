@@ -8,7 +8,7 @@ var menuWidget = angular.module('menuWidget', [])
     }])
     .directive('menuWidget', function(){
         return {
-            restrict: 'A',
+            restrict: 'E',
             templateUrl: 'menu-widget.html'
         };
     });
