@@ -123,7 +123,7 @@
     div.appendChild(div1);
 
     //load scripts
-//    document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
+    document.write("<script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script>");
 //    document.write("<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js'></script>");
 //    document.write('<script src="http://wall2003.github.io/js/bootstrap.min.js"></script>');
 //    document.write('<script src="http://wall2003.github.io/js/offcanvas.js"></script>');
@@ -140,6 +140,8 @@
         window.Webrunes = window.Webrunes || {};
         window.Webrunes.Menu = $('#content-linked-data').html();
     });
+
+    
 
 
 })();
