@@ -138,6 +138,7 @@
 
 
     document.write('<script>$(document).ready(function() {var Webrunes = Webrunes || {};Webrunes.Menu = $("#content-linked-data").html();});</script>');
+    document.write('<script>$(document).ready(function() {alert("document ready");});</script>');
 
 
 

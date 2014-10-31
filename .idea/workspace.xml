@@ -14,7 +14,7 @@
     <file path="/app-directives.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007818395" ignored="false" />
     <file path="/main-header.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413308390383" ignored="false" />
     <file path="/navbar-header.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008617620" ignored="false" />
-    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414699317462" ignored="false" />
+    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414781063808" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414693980532" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="0" selection-start="6396" selection-end="6396" vertical-scroll-proportion="0.8178694">
+            <state line="140" column="82" selection-start="6473" selection-end="6473" vertical-scroll-proportion="0.84707904">
               <folding>
                 <element signature="e#343#387#0" expanded="false" />
               </folding>
@@ -81,7 +81,7 @@
       <file leaf-file-name="1WJyH1k7_en-US.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="19" selection-start="652" selection-end="685" vertical-scroll-proportion="-16.346153">
+            <state line="22" column="13" selection-start="619" selection-end="619" vertical-scroll-proportion="-14.384615">
               <folding />
             </state>
           </provider>
@@ -198,6 +198,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wall2003.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wall2003.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="19" selection-start="652" selection-end="685" vertical-scroll-proportion="-16.346153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.028571429">
@@ -435,16 +442,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="486" selection-end="486" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="28" selection-end="28" vertical-scroll-proportion="-1.3076923">
+        <state line="22" column="13" selection-start="619" selection-end="619" vertical-scroll-proportion="-14.384615">
           <folding />
         </state>
       </provider>
@@ -456,9 +456,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="28" selection-end="28" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="486" selection-end="486" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="0" selection-start="6396" selection-end="6396" vertical-scroll-proportion="0.8178694">
+        <state line="140" column="82" selection-start="6473" selection-end="6473" vertical-scroll-proportion="0.84707904">
           <folding>
             <element signature="e#343#387#0" expanded="false" />
           </folding>
