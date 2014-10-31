@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,7 +21,7 @@
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
     <file path="/navbar-menu.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007468337" ignored="false" />
     <file path="/menu-widget.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414693847876" ignored="false" />
-    <file path="/menu-frame.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414782392166" ignored="false" />
+    <file path="/menu-frame.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414783098264" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="menu-widget.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="menu-widget.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+            <state line="13" column="7" selection-start="356" selection-end="356" vertical-scroll-proportion="0.37142858">
               <folding />
             </state>
           </provider>
@@ -69,11 +70,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu-frame.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="menu-frame.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="567" selection-end="567" vertical-scroll-proportion="0.35852373">
+            <state line="22" column="7" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-14.384615">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1WJyH1k7-list.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="26" selection-start="2633" selection-end="2665" vertical-scroll-proportion="-7.423077">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,15 +101,6 @@
         <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="25" selection-start="156" selection-end="156" vertical-scroll-proportion="-3.9230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="root-container.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="59" selection-start="272" selection-end="272" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
@@ -127,9 +137,9 @@
         <option value="$PROJECT_DIR$/Themes/Default/controllers/app-controllers.js" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.html" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-        <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" />
+        <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
       </list>
     </option>
   </component>
@@ -410,17 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="6" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.10431655">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/directives/app-directives.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="14" selection-end="14" vertical-scroll-proportion="0.028571429">
@@ -437,8 +436,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Themes/Default/templates/root-container.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="59" selection-start="272" selection-end="272" vertical-scroll-proportion="-1.9615384">
+        <state line="14" column="0" selection-start="683" selection-end="683" vertical-scroll-proportion="0.41827768">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="6455" selection-end="6455" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#343#387#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -456,25 +464,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
+    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7-list.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="6455" selection-end="6455" vertical-scroll-proportion="0.0">
+        <state line="43" column="26" selection-start="2633" selection-end="2665" vertical-scroll-proportion="-7.423077">
           <folding>
-            <element signature="e#343#387#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#0;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#1;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#2;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#li#3;tag#ul#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="567" selection-end="567" vertical-scroll-proportion="0.35852373">
+        <state line="22" column="7" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-14.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="356" selection-end="356" vertical-scroll-proportion="0.37142858">
           <folding />
         </state>
       </provider>
