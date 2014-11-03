@@ -139,7 +139,7 @@
 
     document.write('<script>\n$(document).ready(function() {\nwindow.WMW = $("#content-linked-data").html();\n});\n</script>');
 
-    document.write('<script>\n$(document).ready(function() {\nalert(window.WMW.Entity);\n});\n</script>');
+    //document.write('<script>\n$(document).ready(function() {\nalert(window.WMW.Entity);\n});\n</script>');
 
 
 
