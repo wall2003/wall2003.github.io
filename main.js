@@ -137,9 +137,9 @@
 //    document.write('<script src="http://wall2003.github.io/Themes/' + skin +'/controllers/app-controllers.js"></script>');
 
 
-    document.write('<script>$(document).ready(function() {window.WMW = $("#content-linked-data").html();});</script>');
+    document.write('<script>\n$(document).ready(function() {\nwindow.WMW = $("#content-linked-data").html();\n});\n</script>');
 
-    document.write('<script>$(document).ready(function() {alert("document ready");});</script>');
+    document.write('<script>\n$(document).ready(function() {\nalert("document ready");\n});\n</script>');
 
 
 
