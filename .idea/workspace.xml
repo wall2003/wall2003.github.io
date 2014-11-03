@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" afterPath="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
@@ -14,12 +15,12 @@
     <file path="/app-directives.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007818395" ignored="false" />
     <file path="/main-header.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413308390383" ignored="false" />
     <file path="/navbar-header.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008617620" ignored="false" />
-    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414783464929" ignored="false" />
+    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415044048726" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415043127883" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
     <file path="/navbar-menu.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007468337" ignored="false" />
-    <file path="/menu-widget.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415043765559" ignored="false" />
+    <file path="/menu-widget.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415044010500" ignored="false" />
     <file path="/menu-frame.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414784742915" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,19 +41,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="menu-widget.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="menu-widget.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.25714287">
+            <state line="10" column="10" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="0" selection-start="4844" selection-end="4844" vertical-scroll-proportion="0.0">
+            <state line="144" column="0" selection-start="6459" selection-end="6459" vertical-scroll-proportion="0.8">
               <folding>
                 <element signature="e#343#387#0" expanded="false" />
               </folding>
@@ -116,11 +117,11 @@
         <option value="$PROJECT_DIR$/Themes/Default/templates.js" />
         <option value="$PROJECT_DIR$/Themes/Default/controllers/app-controllers.js" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/Widgets/Menu/webrunes.css" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.html" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
+        <option value="$PROJECT_DIR$/main.js" />
       </list>
     </option>
   </component>
@@ -445,15 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="0" selection-start="4844" selection-end="4844" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#343#387#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="51" selection-start="1488" selection-end="1488" vertical-scroll-proportion="-11.769231">
@@ -470,8 +462,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-widget.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.25714287">
+        <state line="10" column="10" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="0" selection-start="6459" selection-end="6459" vertical-scroll-proportion="0.8">
+          <folding>
+            <element signature="e#343#387#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

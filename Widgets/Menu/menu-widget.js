@@ -6,7 +6,7 @@ var menuWidget = angular.module('menuWidget', [])
         $scope.subtab=['first', 'second'];
 
         var init = function(){
-            var searchObject = $location.search();
+            var host = $location.host;
             var tt=0;
         };
 

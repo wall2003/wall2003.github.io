@@ -139,6 +139,8 @@
 
     document.write('<script>$(document).ready(function() {window.WMW = $("#content-linked-data").html();});</script>');
 
+    document.write('<script>$(document).ready(function() {alert("document ready");});</script>');
+
 
 
 
