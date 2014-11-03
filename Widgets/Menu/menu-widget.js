@@ -2,8 +2,8 @@
 
 var menuWidget = angular.module('menuWidget', [])
     .controller('menuWidgetCtrl', ['$scope', function($scope){
-        $scope.title = 'The story of the cat';
-        var tt=0;
+        $scope.tab = 'The story of the cat';
+        $scope.subtab=['first', 'second'];
     }]);
 
 menuWidget.directive('menuWidget', function(){
