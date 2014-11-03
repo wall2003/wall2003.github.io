@@ -14,7 +14,7 @@
     <file path="/app-directives.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007818395" ignored="false" />
     <file path="/main-header.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413308390383" ignored="false" />
     <file path="/navbar-header.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008617620" ignored="false" />
-    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415044355874" ignored="false" />
+    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415044560211" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415043127883" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="148" column="0" selection-start="6479" selection-end="6479" vertical-scroll-proportion="0.9142857">
+            <state line="145" column="0" selection-start="6477" selection-end="6477" vertical-scroll-proportion="0.82857144">
               <folding>
                 <element signature="e#343#387#0" expanded="false" />
               </folding>
@@ -431,23 +431,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="450" selection-end="450" vertical-scroll-proportion="-10.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/COLLECTIONS/Downloads/flyer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="582" column="15" selection-start="17282" selection-end="17282" vertical-scroll-proportion="-1.8402061">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="51" selection-start="1488" selection-end="1488" vertical-scroll-proportion="-11.769231">
           <folding />
         </state>
       </provider>
@@ -466,9 +452,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Widgets/Menu/menu-frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="51" selection-start="1488" selection-end="1488" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="28" selection-start="450" selection-end="450" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="0" selection-start="6479" selection-end="6479" vertical-scroll-proportion="0.9142857">
+        <state line="145" column="0" selection-start="6477" selection-end="6477" vertical-scroll-proportion="0.82857144">
           <folding>
             <element signature="e#343#387#0" expanded="false" />
           </folding>
