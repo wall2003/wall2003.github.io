@@ -21,7 +21,7 @@
 //})(jQuery);
 
 $(document).ready(function(){
-    window.WMW = $("#content-linked-data").html();
+    var WMW = $("#content-linked-data").html();
 
     var container = $('<div class="container-liquid"></div>');
     $('body').append(container);
