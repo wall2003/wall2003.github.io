@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepare.container.js" afterPath="$PROJECT_DIR$/prepare.container.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1WJyH1k7_en-US.html" afterPath="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +15,7 @@
     <file path="/app-directives.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414007818395" ignored="false" />
     <file path="/main-header.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413308390383" ignored="false" />
     <file path="/navbar-header.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414008617620" ignored="false" />
-    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415131498200" ignored="false" />
+    <file path="/main.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415132691424" ignored="false" />
     <file path="/menu-widget.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415043127883" ignored="false" />
     <file path="/app-app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414003035046" ignored="false" />
     <file path="/root-container.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1414009847361" ignored="false" />
@@ -65,7 +66,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0">
+            <state line="59" column="0" selection-start="2496" selection-end="2496" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,7 +93,7 @@
       <file leaf-file-name="main_old.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_old.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="18" selection-start="4191" selection-end="4221" vertical-scroll-proportion="0.0">
+            <state line="124" column="8" selection-start="5216" selection-end="5336" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,7 +102,7 @@
       <file leaf-file-name="1WJyH1k7_en-US.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="8" selection-start="780" selection-end="837" vertical-scroll-proportion="-6.5384617">
+            <state line="25" column="31" selection-start="2326" selection-end="2326" vertical-scroll-proportion="-12.884615">
               <folding />
             </state>
           </provider>
@@ -135,12 +136,12 @@
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-frame.html" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.html" />
         <option value="$PROJECT_DIR$/Widgets/Menu/menu-widget.js" />
-        <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
         <option value="$PROJECT_DIR$/Themes/Default/app.js" />
         <option value="$PROJECT_DIR$/1WJyH1k7-list.html" />
         <option value="$PROJECT_DIR$/Widgets/Plus/plus.js" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/prepare.container.js" />
+        <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
+        <option value="$PROJECT_DIR$/main.js" />
       </list>
     </option>
   </component>
@@ -377,13 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="780" selection-end="837" vertical-scroll-proportion="-6.5384617">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="21" selection-start="614" selection-end="614" vertical-scroll-proportion="-9.461538">
@@ -391,16 +385,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="31" selection-start="2326" selection-end="2326" vertical-scroll-proportion="-12.884615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_old.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="18" selection-start="4191" selection-end="4221" vertical-scroll-proportion="0.0">
+        <state line="124" column="8" selection-start="5216" selection-end="5336" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0">
+        <state line="59" column="0" selection-start="2496" selection-end="2496" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
