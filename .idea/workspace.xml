@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1WJyH1k7_en-US.html" afterPath="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepare.container.js" afterPath="$PROJECT_DIR$/prepare.container.js" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +24,7 @@
     <file path="/app.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415127602130" ignored="false" />
     <file path="/1WJyH1k7-list.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415127906994" ignored="false" />
     <file path="/plus.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415127986968" ignored="false" />
-    <file path="/prepare.container.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415131784108" ignored="false" />
+    <file path="/prepare.container.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415133213168" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <file leaf-file-name="prepare.container.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prepare.container.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.116838485">
+            <state line="2" column="12" selection-start="60" selection-end="60" vertical-scroll-proportion="0.058419243">
               <folding />
             </state>
           </provider>
@@ -139,9 +138,9 @@
         <option value="$PROJECT_DIR$/Themes/Default/app.js" />
         <option value="$PROJECT_DIR$/1WJyH1k7-list.html" />
         <option value="$PROJECT_DIR$/Widgets/Plus/plus.js" />
-        <option value="$PROJECT_DIR$/prepare.container.js" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/prepare.container.js" />
       </list>
     </option>
   </component>
@@ -408,7 +407,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prepare.container.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.116838485">
+        <state line="2" column="12" selection-start="60" selection-end="60" vertical-scroll-proportion="0.058419243">
           <folding />
         </state>
       </provider>
