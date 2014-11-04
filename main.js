@@ -19,5 +19,10 @@
     document.write("<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js'></script>");
 
     //prepare container
-    document.write("<script src='http://wall2003.github.io/prepare.container.js'></script>");
+    //document.write("<script src='http://wall2003.github.io/prepare.container.js'></script>");
+
+    var body = document.getElementsByTagName('body')[0];
+    var script = document.createElement('script');
+    script.setAttribute('src', 'http://wall2003.github.io/prepare.container.js');
+    body.appendChild(script);
 })();
