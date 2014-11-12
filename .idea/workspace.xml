@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1WJyH1k7-list.html" afterPath="$PROJECT_DIR$/1WJyH1k7-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wrio/bootstrap.html" afterPath="$PROJECT_DIR$/wrio/bootstrap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wrio/main.js" afterPath="$PROJECT_DIR$/wrio/main.js" />
-    </list>
+    <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="" />
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413918305724" ignored="false" />
@@ -56,19 +52,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bootstrap.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wrio/bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="9" selection-start="754" selection-end="754" vertical-scroll-proportion="0.59753954">
+            <state line="18" column="11" selection-start="728" selection-end="728" vertical-scroll-proportion="-11.769231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1WJyH1k7-list.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="1WJyH1k7-list.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="9" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-16.653847">
+            <state line="13" column="25" selection-start="574" selection-end="574" vertical-scroll-proportion="0.16344464">
               <folding />
             </state>
           </provider>
@@ -484,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="9" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-16.653847">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wrio/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="1686" selection-end="1686" vertical-scroll-proportion="0.0">
@@ -500,7 +489,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wrio/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="9" selection-start="754" selection-end="754" vertical-scroll-proportion="0.59753954">
+        <state line="18" column="11" selection-start="728" selection-end="728" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="25" selection-start="574" selection-end="574" vertical-scroll-proportion="0.16344464">
           <folding />
         </state>
       </provider>
