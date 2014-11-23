@@ -2,94 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbad0fd0-1305-4a42-90db-a776f0e11e0b" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\1WJyH1k7-list.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\1WJyH1k7_en-US.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\S3\article_widget.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\S3\main.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\S3\webrunes_article_list_widget.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\app.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\css\loading.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\css\sign_in.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\css\webrunes.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\bebasneue.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\bebasneue.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\bebasneue.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\helveticaneuemdcn.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\fonts\helveticaneuemdcn.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\ico\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\IA-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\best_of_twitter-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\best_of_youtube-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\blogs-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\blogs-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\browser_chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\browser_firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\browser_ie.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-facebook-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-facebook-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-google_plus-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-google_plus-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-link-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-link-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-photo_or_image-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-photo_or_image-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-twitter-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-twitter-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-create-vimeo-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-enable-coments-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-enable-coments-2.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-enable-coments-3.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\conversations\conversation-сreate-vimeo-1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\google.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\invite-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\loading_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\logo_wrio.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\no-photo-200x200.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\open_copyright-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\person-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\plus-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\plus-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\profile-ia.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\profile1-200x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\sign_in-cover6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\storage-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\storage-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\titter-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\titter-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\twitter-dots.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\webgold-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\webgold-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\webrunes-cover1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\webrunes-preview.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\wrio-cover1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\Themes\Default\img\wrio-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\js\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\js\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\main.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\main_old.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\prepare.container.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\WEB_GIT_HUB\wall2003.github.io\wrio\bootstrap.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1WJyH1k7-list.html" afterPath="$PROJECT_DIR$/1WJyH1k7-list.html" />
     </list>
     <ignored path="wall2003.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1416150941360" ignored="false" />
+    <file path="/Dummy.txt" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1416757043480" ignored="false" />
     <file path="/main-body.js" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413315137669" ignored="false" />
     <file path="/1WJyH1k7_en-US.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1415127054682" ignored="false" />
     <file path="/left-view.html" changelist="cbad0fd0-1305-4a42-90db-a776f0e11e0b" time="1413232834504" ignored="false" />
@@ -130,7 +47,26 @@
     <favorites_list name="wall2003.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="1WJyH1k7-list.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="7" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.8131868">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1WJyH1k7_en-US.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.3076925">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -152,7 +88,6 @@
         <option value="$PROJECT_DIR$/wrio/content-widget.html" />
         <option value="$PROJECT_DIR$/wrio/menu-widget.html" />
         <option value="$PROJECT_DIR$/1WJyH1k7_en-US.html" />
-        <option value="$PROJECT_DIR$/1WJyH1k7-list.html" />
         <option value="$PROJECT_DIR$/wrio/jquery.html" />
         <option value="$PROJECT_DIR$/wrio/bootstrap.html" />
         <option value="$PROJECT_DIR$/wrio/handlebars.html" />
@@ -164,6 +99,7 @@
         <option value="$PROJECT_DIR$/S3/webrunes_hub_widget.html" />
         <option value="$PROJECT_DIR$/github_2/1WJyH1k7_en-US.html" />
         <option value="$PROJECT_DIR$/wrio/main.js" />
+        <option value="$PROJECT_DIR$/1WJyH1k7-list.html" />
       </list>
     </option>
   </component>
@@ -199,7 +135,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,6 +155,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,8 +165,8 @@
     <property name="last_opened_file_path" value="C:/Program Files (x86)/nodejs/node.exe" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -284,12 +220,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19285183" sideWeight="0.6714976" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19285183" sideWeight="0.6714976" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -365,59 +301,26 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Default-WRIO-Theme/1WJyH1k7_en-US - next version (not ready).htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="17" selection-start="5424" selection-end="5444" vertical-scroll-proportion="0.36022514" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wrio/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="22" selection-start="1607" selection-end="1607" vertical-scroll-proportion="0.37362638">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wrio/handlebars.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wrio/jquery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wrio/widgets/list-widget.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="960" selection-end="960" vertical-scroll-proportion="0.77838826">
-          <folding />
-        </state>
+        <state line="21" column="22" selection-start="1607" selection-end="1607" vertical-scroll-proportion="0.37362638" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/S3/webrunes_article_list_widget.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="53" selection-start="375" selection-end="375" vertical-scroll-proportion="0.21794872">
+        <state line="7" column="53" selection-start="375" selection-end="375" vertical-scroll-proportion="0.21794872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7_en-US.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.3076925">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/S3/webrubes_article_widget.html">
+    <entry file="file://$PROJECT_DIR$/1WJyH1k7-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="984" selection-end="984" vertical-scroll-proportion="0.77838826">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/S3/webrunes_hub_widget.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="9" selection-start="898" selection-end="898" vertical-scroll-proportion="0.65384614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github_2/1WJyH1k7_en-US.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="937" selection-end="937" vertical-scroll-proportion="0.3358349">
+        <state line="35" column="7" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.8131868">
           <folding />
         </state>
       </provider>
