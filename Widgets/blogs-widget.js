@@ -2,6 +2,14 @@
 
 angular
     .module('appBlogs', [])
+    .config(function($sceDelegateProvider){
+        $sceDelegateProvider.resourceUrlWhitelist([
+            // Allow same origin resource loads.
+            'self',
+            // Allow loading from outer templates domain.
+            'http://wall2003.github.io/Widget/**'
+        ]);
+    })
     .directive('blogsWidget', function(){
         return {
             restrict: 'A',
