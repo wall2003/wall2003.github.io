@@ -1,8 +1,7 @@
-var appMain = appMain || {};
-
 'use strict';
 
-appMain
+angular
+    .module('appBlogs', [])
     .directive('blogsWidget', function(){
         return {
             restrict: 'A',
@@ -13,4 +12,3 @@ appMain
             }
         };
     });
-
