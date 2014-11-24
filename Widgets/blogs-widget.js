@@ -7,7 +7,7 @@ angular
             // Allow same origin resource loads.
             'self',
             // Allow loading from outer templates domain.
-            'http://wall2003.github.io/Widget/**'
+            'http://wall2003.github.io/Widgets/**'
         ]);
     })
     .directive('blogsWidget', function(){
