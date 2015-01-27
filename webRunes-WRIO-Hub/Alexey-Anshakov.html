@@ -8,35 +8,13 @@
     <meta name="author" content="User name1, User name2">
     <meta name="keywords" content="story, cat">
     <title>Alexey Anshakov</title>
-    
-    <!-- json-ld for WRIO -->
-    <script type="application/ld+json">
-        {
-        "entity": "profile",
-        "version": "1.0",
-        "templateVersion": "1.0",
-        "cover": "http://domain.com/cover.html",
-        "translation": "http://domain.com/translation.html",
-        "list": [
-        {
-        "@type": "ItemList",
-        "name": "List name 1",
-        "url": "http://domain.com/List-name-1.html"
-        },
-        {
-        "@type": "ItemList",
-        "name": "List name 2",
-        "url": "http://domain.com/List-name-2.html"
-        }
-        ]
-        }
-    </script>
+
 
     <!-- json-ld for article -->
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",
-        "@type": "Article",
+        "@type": "Person",
         "inLanguage": "en-US",
         "keywords": "keyword1, keyword2, keyword3",
         "author": {
@@ -85,16 +63,7 @@
     }
     </script>
     
-    <!-- ignore this part -->
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Person",
-      "image": "image.jpg",
-      "name": "Alexey Anshakov",
-      "url": "http://webrunes.com/AlexeyAnshakov"
-    }
-    </script>
+
 </head>
 
 <body>
