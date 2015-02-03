@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+﻿﻿<!DOCTYPE html>
 <html lang="en-US">
 <head>
     <meta charset="utf-8">
@@ -9,23 +9,62 @@
     <meta name="keywords" content="story, cat">
     <title>Alexey Anshakov</title>
 
-
-    <!-- json-ld for article -->
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",
-        "@type": "Person",
+        "@type": "ItemList",
+        "name": "My cover list for hub",
+        "itemListElement": [
+        {
+              "@type": "ItemList",
+              "name": "Cover",
+              "description": "Info about list",
+              "image": "http://domain1.com/image1.jpg",
+              "url": "http://webrunes.com/cover.htm?cover"
+        }
+        ]
+        }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Seattle",
+        "addressRegion": "WA",
+        "postalCode": "98052",
+        "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
+      },
+      "colleague": [
+        "http://www.xyz.edu/students/alicejones.html",
+        "http://www.xyz.edu/students/bobsmith.html"
+      ],
+      "email": "mailto:jane-doe@xyz.edu",
+      "image": "janedoe.jpg",
+      "jobTitle": "Professor",
+      "givenName": "Jane",
+      "familyName": "Doe",
+      "telephone": "(425) 123-4567",
+      "url": "http://www.janedoe.com"
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
         "inLanguage": "en-US",
         "keywords": "keyword1, keyword2, keyword3",
         "author": {
         "@context": "http://schema.org",
         "@type": "Person",
-        "givenName": "Alexey",
-        "familyName": "Anshakov",
+        "givenName": "Jane",
+        "familyName": "Doe",
         "sameAs": "http://alexey-anshakov.webrunes.com"
         },
         "editor": "",
-        "name": "Alexey Anshakov",
+        "name": "Jane Doe",
         "about": "1 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla.",
         "articleBody": [
         "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
@@ -62,60 +101,30 @@
         ]
     }
     </script>
-    
+
     <script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "ItemList",
-        "name": "My Plus List",
+        "name": "My lists",
         "itemListElement": [
         {
-              "@type": "Article",
-              "inLanguage": "en-US",
-              "author": "http://webrunes.github.io/webRunes-WRIO-Hub/Alexey-Anshakov.html",
-              "name": "The story of the cat",
-              "about": "Description text",
+              "@type": "ItemList",
+              "name": "Blog",
+              "description": "Info about list",
               "image": "http://domain1.com/image1.jpg",
-              "url": "http://wall2003.github.io/webRunes-WRIO-Hub/The-story-of-the-cat.html"
+              "url": "http://webrunes.com/blog.htm"
         },
         {
-              "@type": "Article",
-              "inLanguage": "en-US",
-              "name": "Alexey Anshakov",
-              "about": "Description text",
+              "@type": "ItemList",
+              "name": "Photos",
+              "description": "Info about list",
               "image": "http://domain.com/image.jpg",
-              "url": "http://wall2003.github.io/webRunes-WRIO-Hub/Alexey-Anshakov.html"
-        },
-        {
-              "@type": "Article",
-              "inLanguage": "en-US",
-              "name": "Abother hub",
-              "about": "Description text",
-              "image": "http://domain-another-hub.com/image.jpg",
-              "url": "#"
-        },
-        {
-              "@type": "Article",
-              "inLanguage": "en-US",
-              "author": "http://webrunes.github.io/webRunes-WRIO-Hub/Alexey-Anshakov.html",
-              "name": "Help post",
-              "about": "Description text",
-              "image": "http://domain2.com/image2.jpg",
-              "url": "#"
-        },
-        {
-              "@type": "Article",
-              "inLanguage": "en-US",
-              "author": "http://domain-another-hub.com/url-another-hub.html",
-              "name": "Article",
-              "about": "Description text",
-              "image": "http://domain4.com/image4.jpg",
-              "url": "#"
+              "url": "http://webrunes.com/photos.htm"
         }
         ]
         }
     </script>
-
 </head>
 
 <body>
