@@ -5,7 +5,7 @@
 	var startHeader = '<h1>';
 	var endHeader = '</h1>';
 	var fileNameToSaveAs = "myNewFile.txt";
-	var cleshe = '<script type="application/ld+json>|BODY|</script>"';
+	var cleshe = '<script type="application/ld+json">|BODY|</script>';
 
 	var getArticle = function(lang, keywords, author){
 		return {
@@ -112,6 +112,7 @@
 		var ps = blocks[1].split('<br>');
 		ps = normalizeOUL(ps);
 		for(var i = 0; i < ps.length; i++){
+			ps[i] = ps[i].replace(/&nbsp;/gi, ' ');
 			var p = checkMention(json.mentions, ps[i], num);
 			json.articleBody.push(p);
 			num +=1;
@@ -128,6 +129,7 @@
 		var ps = blocks[1].split('<br>');
 		ps = normalizeOUL(ps);
 		for(var i = 0; i < ps.length; i++){
+			ps[i] = ps[i].replace(/&nbsp;/gi, ' ');
 			var p = checkMention(json.mentions, ps[i], num);
 			part.articleBody.push(p);
 			num +=1;
