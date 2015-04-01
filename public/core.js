@@ -1,11 +1,15 @@
 'use strict';
 
 (function($){
-	var $textarea, $test, $saveBtn;
+	var $textarea, $saveBtn;
 	var startHeader = '<h1>';
 	var endHeader = '</h1>';
-	var fileNameToSaveAs = "myNewFile.txt";
-	var cleshe = '<script type="application/ld+json">|BODY|</script>';
+	var fileNameToSaveAs = "myNewFile.html";
+	var cleshe ='<!DOCTYPE html><html lang="en-US"><head><meta charset="utf-8">' +
+	'<meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">' +
+	'<meta name="description" content=""><meta name="author" content=""><meta name="keywords" content="">' +
+	'<title>|TITLE|</title><script type="application/ld+json">|BODY|</script>' +
+	'</head><body><script src="http://wrio.s3-website-us-east-1.amazonaws.com/WRIO-InternetOS/WRIO.js"></script></body></html>';
 
 	var getArticle = function(lang, keywords, author){
 		return {
@@ -22,14 +26,13 @@
 			"mentions": []
 		};
 	};
-	var getMentionsItem = function(){
-		var item = {
+	var getMentionsItem = function(name, about, link){
+		return {
 			"@type": "Article",
-			"name": "First url title",
-			"about": "Text inside the ticket popup.",
-			"url": "http://webrunes.com/blog.htm?'dolor sit amet':1,104"
+			"name": name,
+			"about": about,
+			"url": link
 		};
-		return item;
 	};
 	var getPart = function(name){
 		return {
@@ -90,26 +93,47 @@
 		text = normalizeText(text);
 
 		var blocks = text.split(startHeader);
-		if(blocks.length < 2) return '';
+		if(!blocks.length) return '';
 
-		var article = getArticle("en-US", "keyword1, keyword2, keyword3", "http://alexey-anshakov.webrunes.com");
+		var i = !blocks[0] ? 1 : 0;
+		var j = i;
+		var article = getArticle("en-US", "", "");
 		var num = 1;
-		for(var i = 1; i < blocks.length; i++){
-			if(i == 1) num = addCoreBlock(article, blocks[1], num);
+		for(; i < blocks.length; i++){
+			if(i == j) num = addCoreBlock(article, blocks[i], num);
 			else num = addParagraph(article, blocks[i], num);
 		}
 
 		return article;
 	};
 	var checkMention = function(arr, txt, num){
+		var reg1 = /<a/i;
+		var reg2 = /<\/a>/i;
+		var regHref = /href=["|']([^'"]+)/i;
+		var regTitle = /<a [^>]+>([^<]+)<\/a>/i;
+
+		var ind;
+		while((ind = txt.search(reg1)) >= 0){
+			var end = txt.search(reg2) + 4;
+			var a = txt.substring(ind, end);
+
+			var name = regTitle.exec(a)[1];
+			var link = regHref.exec(a)[1];
+			link += "?'" + name + "':" + num + "," + ind;
+
+			txt = txt.replace(a, name);
+			var ment = getMentionsItem(name, '', link);
+			arr.push(ment);
+		}
 		return txt;
 	};
 	var addCoreBlock = function(json, txt, num){
 		if(!txt) return num;
 		var blocks = txt.split(endHeader);
-		json.name = blocks[0];
 
-		var ps = blocks[1].split('<br>');
+		json.name = blocks.length == 2 ? blocks[0] : '';
+
+		var ps = blocks[blocks.length - 1].split('<br>');
 		ps = normalizeOUL(ps);
 		for(var i = 0; i < ps.length; i++){
 			ps[i] = ps[i].replace(/&nbsp;/gi, ' ');
@@ -145,10 +169,11 @@
 		if(!json) return;
 
 		var textToWrite = cleshe.replace('|BODY|', JSON.stringify(json));
+		textToWrite = textToWrite.replace('|TITLE|', json.name);
 
 		//ToDo: test
-		$($test).val(textToWrite);
-		return;
+		//$($test).val(textToWrite);
+		//return;
 
 		var textFileAsBlob = new Blob([textToWrite], {type:'text/plain'});
 
@@ -168,7 +193,6 @@
 	var init = function(){
 		$saveBtn = $('#save-button-id').on('click', onClickSave);
 		$textarea = $('#textarea-core-id');
-		$test = $('#textarea-test');
 	};
 	init();
 })(jQuery);
