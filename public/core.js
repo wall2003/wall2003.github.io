@@ -50,6 +50,7 @@
 		text = text.replace(/<br><br>/gi, '<br>');
 		text = text.replace(/<br><\/li>/gi, '</li>');
 
+		text = normalizeQuote(text);
 		return text;
 	};
 	var normalizeOUL = function(arr){
@@ -66,6 +67,27 @@
 			}
 		}
 		return list;
+	};
+	var normalizeQuote = function(txt){
+		var reg = /(<blockquote>([\s\S]+?)<\/blockquote>)/gi;
+
+		var blocks = txt.match(reg);
+		if(!blocks.length) return txt;
+
+		for(var i = 0; i < blocks.length; i++){
+			var item = blocks[i].replace('<blockquote>', '<br>').replace('</blockquote>', '<br>');
+			var ps = item.split('<br>');
+			var newBlocks = ['<br>'];
+			for(var j = 0; j < ps.length; j++){
+				if(ps[j]){
+					ps[j] = '> ' + ps[j] + '<br>';
+					newBlocks.push(ps[j]);
+				}
+			}
+			txt = txt.replace(blocks[i], newBlocks.join(''));
+		}
+
+		return txt;
 	};
 	var convertOUlToList = function(list, txt, isOu){
 		txt = txt.replace(/<ol>/gi, '<br>').replace(/<ul>/gi, '<br>')
